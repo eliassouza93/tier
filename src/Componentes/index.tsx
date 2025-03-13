@@ -42,8 +42,8 @@ function Buscador() {
 
   return (
     <div className="buscador-container">
-      <label htmlFor="numeroInput">Digite um número:</label>
-      <input type="number" id="numeroInput" value={numero} onChange={handleChange} />
+      <label htmlFor="numeroInput">Digite o Tenant:</label>
+      <input placeholder='Digite o tenant' type="number" id="numeroInput" value={numero} onChange={handleChange} />
 
       {erro && <p className="erro">{erro}</p>}
 
