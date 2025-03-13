@@ -51,7 +51,7 @@ function Buscador() {
         <div className="dados-container">
           <p>ID: {dados.id}</p>
           <p>Tier: {dados.tier}</p>
-          <p>Prioridade: {dados.proridade}</p>
+          <p>Revenda: {dados.proridade}</p>
           <p>CPF/CNPJ: {dados['Cpf Cnpj']}</p>
         </div>
       )}
