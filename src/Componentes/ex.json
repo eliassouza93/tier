@@ -1,0 +1,5998 @@
+{
+"Sheet1":[
+ {
+  "id": 1019,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35744737000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1020,
+  "tier": "Tier S",
+  "Cpf Cnpj": 35591022000158,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1027,
+  "tier": "Tier S",
+  "Cpf Cnpj": 37494961000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1034,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37704495000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1036,
+  "tier": "Tier A",
+  "Cpf Cnpj": "18.767.546\/0001-38",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1046,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34497445000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1049,
+  "tier": "Tier A",
+  "Cpf Cnpj": 26718703000143,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1051,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35606077000194,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1069,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35982154000100,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1073,
+  "tier": "Tier C",
+  "Cpf Cnpj": 9542227000133,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1083,
+  "tier": "Tier A",
+  "Cpf Cnpj": 27170771000183,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1086,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33649704000149,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1095,
+  "tier": "Tier C",
+  "Cpf Cnpj": 23273561000160,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1113,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39418681000148,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1118,
+  "tier": "Tier C",
+  "Cpf Cnpj": 20664119000176,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1124,
+  "tier": "Tier S",
+  "Cpf Cnpj": 9608390000151,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1131,
+  "tier": "Tier B",
+  "Cpf Cnpj": 34837339000169,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1145,
+  "tier": "Tier A",
+  "Cpf Cnpj": 43727265000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1155,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34448247000197,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1156,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22585952000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1167,
+  "tier": "Tier C",
+  "Cpf Cnpj": 59146076000172,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1184,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22900201000188,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1185,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32240346000153,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1190,
+  "tier": "Tier S",
+  "Cpf Cnpj": 20422248000310,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1197,
+  "tier": "Tier S",
+  "Cpf Cnpj": 24874154000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1203,
+  "tier": "Tier C",
+  "Cpf Cnpj": 55427539000113,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1213,
+  "tier": "Tier A",
+  "Cpf Cnpj": "22.565.411\/0001-67",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1230,
+  "tier": "Tier A",
+  "Cpf Cnpj": 31444151000162,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1241,
+  "tier": "Tier A",
+  "Cpf Cnpj": 29431723000127,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1254,
+  "tier": "Tier B",
+  "Cpf Cnpj": "41.968.548\/0001-07",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1256,
+  "tier": "Tier S",
+  "Cpf Cnpj": "42.432.670\/0001-27",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1257,
+  "tier": "Tier A",
+  "Cpf Cnpj": 21146557000105,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1262,
+  "tier": "Tier A",
+  "Cpf Cnpj": 9034197000154,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1263,
+  "tier": "Tier C",
+  "Cpf Cnpj": 21098057000145,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1268,
+  "tier": "Tier B",
+  "Cpf Cnpj": 34497445000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1285,
+  "tier": "Tier A",
+  "Cpf Cnpj": "57.275.818\/0001-34",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1286,
+  "tier": "Tier A",
+  "Cpf Cnpj": 19300153000182,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1287,
+  "tier": "Tier A",
+  "Cpf Cnpj": "04.504.177\/0001-86",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1292,
+  "tier": "Tier B",
+  "Cpf Cnpj": 32871393000103,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1294,
+  "tier": "Tier A",
+  "Cpf Cnpj": 32240346000153,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1295,
+  "tier": "Tier S",
+  "Cpf Cnpj": 39887400000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1304,
+  "tier": "Tier S",
+  "Cpf Cnpj": "42.958.510\/0001-16",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1307,
+  "tier": "Tier C",
+  "Cpf Cnpj": "39.592.550\/0001-82",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1313,
+  "tier": "Tier A",
+  "Cpf Cnpj": "34.047.536\/0001-84",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1316,
+  "tier": "Tier A",
+  "Cpf Cnpj": 15345461000173,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1324,
+  "tier": "Tier A",
+  "Cpf Cnpj": 34237851000174,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 133,
+  "tier": "Tier A",
+  "Cpf Cnpj": "40.771.011\/0001-90",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1336,
+  "tier": "Tier C",
+  "Cpf Cnpj": "41.944.840\/0001-90",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1338,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42428758000175,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1339,
+  "tier": "Tier A",
+  "Cpf Cnpj": 34380362000177,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 134,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5495076000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1340,
+  "tier": "Tier A",
+  "Cpf Cnpj": 40916012000185,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1348,
+  "tier": "Tier A",
+  "Cpf Cnpj": 60782778000121,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1354,
+  "tier": "Tier A",
+  "Cpf Cnpj": "35.414.823\/0001-48",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1361,
+  "tier": "Tier A",
+  "Cpf Cnpj": 41946324000102,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1363,
+  "tier": "Tier A",
+  "Cpf Cnpj": 42341898000101,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1373,
+  "tier": "Tier S",
+  "Cpf Cnpj": "43.557.520\/0001-02",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1389,
+  "tier": "Tier S",
+  "Cpf Cnpj": "43.079.879\/0001-11",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1392,
+  "tier": "Tier A",
+  "Cpf Cnpj": "43.304.269\/0001-74",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1396,
+  "tier": "Tier A",
+  "Cpf Cnpj": "35.476.558\/0001-22",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1401,
+  "tier": "Tier A",
+  "Cpf Cnpj": 29491332000106,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1405,
+  "tier": "Tier B",
+  "Cpf Cnpj": 37463568000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1409,
+  "tier": "Tier A",
+  "Cpf Cnpj": 9779476881,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1412,
+  "tier": "Tier S",
+  "Cpf Cnpj": 40612167000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1416,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8988936000184,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1417,
+  "tier": "Tier B",
+  "Cpf Cnpj": 39799555000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1428,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4092315000167,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1438,
+  "tier": "Tier A",
+  "Cpf Cnpj": 36016032000394,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1452,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30787647000176,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1454,
+  "tier": "Tier B",
+  "Cpf Cnpj": 27773124000166,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1455,
+  "tier": "Tier A",
+  "Cpf Cnpj": "44.167.220\/0001-80",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1458,
+  "tier": "Tier S",
+  "Cpf Cnpj": 43279029000167,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1461,
+  "tier": "Tier B",
+  "Cpf Cnpj": 50354069000191,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1464,
+  "tier": "Tier A",
+  "Cpf Cnpj": "30.608.860\/0001-73",
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1469,
+  "tier": "Tier S",
+  "Cpf Cnpj": "44.308.986\/0002-18",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1470,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43441258000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1473,
+  "tier": "Tier A",
+  "Cpf Cnpj": 42205037000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1485,
+  "tier": "Tier S",
+  "Cpf Cnpj": 43749542000174,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1506,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41459434000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1509,
+  "tier": "Tier B",
+  "Cpf Cnpj": 44544645000160,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1511,
+  "tier": "Tier A",
+  "Cpf Cnpj": 26016078000198,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1561,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29467806000176,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1570,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44758734000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1580,
+  "tier": "Tier A",
+  "Cpf Cnpj": "41.396.820\/0001-21",
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 1590,
+  "tier": "Tier A",
+  "Cpf Cnpj": 4588481000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1600,
+  "tier": "Tier C",
+  "Cpf Cnpj": 1580478000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1602,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30455769000165,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1620,
+  "tier": "Tier B",
+  "Cpf Cnpj": 31443152000192,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1622,
+  "tier": "Tier B",
+  "Cpf Cnpj": 2979778000110,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1623,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42097895000174,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1630,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46035940000117,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 1638,
+  "tier": "Tier A",
+  "Cpf Cnpj": 42891221000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1645,
+  "tier": "Tier A",
+  "Cpf Cnpj": "45.116.115\/0001-84",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1649,
+  "tier": "Tier C",
+  "Cpf Cnpj": 28373109000193,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1652,
+  "tier": "Tier B",
+  "Cpf Cnpj": 37219448000100,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1655,
+  "tier": "Tier C",
+  "Cpf Cnpj": "35.539.517\/0001-38",
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1660,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8146743000186,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1666,
+  "tier": "Tier B",
+  "Cpf Cnpj": 1893158000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1692,
+  "tier": "Tier S",
+  "Cpf Cnpj": 27457558000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1702,
+  "tier": "Tier C",
+  "Cpf Cnpj": 54164333000185,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1713,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37748728000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1717,
+  "tier": "Tier B",
+  "Cpf Cnpj": 37150939000142,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1722,
+  "tier": "Tier A",
+  "Cpf Cnpj": 9741570740,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1730,
+  "tier": "Tier B",
+  "Cpf Cnpj": 52678996000192,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1737,
+  "tier": "Tier A",
+  "Cpf Cnpj": 23936464000100,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1754,
+  "tier": "Tier A",
+  "Cpf Cnpj": 37109582000159,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1761,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44318096000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1762,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32768279000144,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 1765,
+  "tier": "Tier A",
+  "Cpf Cnpj": 5904097000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1770,
+  "tier": "Tier C",
+  "Cpf Cnpj": 13266521000137,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1772,
+  "tier": "Tier A",
+  "Cpf Cnpj": 50916920000122,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1773,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48673290000160,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 1778,
+  "tier": "Tier B",
+  "Cpf Cnpj": 26985267000179,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1787,
+  "tier": "Tier A",
+  "Cpf Cnpj": 32136401000160,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1795,
+  "tier": "Tier A",
+  "Cpf Cnpj": 38904824000169,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1809,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10256371000192,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1811,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48146221000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1812,
+  "tier": "Tier A",
+  "Cpf Cnpj": 44930276000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1814,
+  "tier": "Tier C",
+  "Cpf Cnpj": "26.549.190\/0001-94",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1821,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36473118000184,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1827,
+  "tier": "Tier A",
+  "Cpf Cnpj": 13186236000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1832,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35339470000169,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1833,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43660576000198,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1840,
+  "tier": "Tier S",
+  "Cpf Cnpj": 54008820000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1842,
+  "tier": "Tier A",
+  "Cpf Cnpj": 8148601000158,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1848,
+  "tier": "Tier B",
+  "Cpf Cnpj": 42087149000108,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 1856,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35469045000194,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1857,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43682506000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1866,
+  "tier": "Tier A",
+  "Cpf Cnpj": 16383025000151,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 1875,
+  "tier": "Tier B",
+  "Cpf Cnpj": 33489509000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1876,
+  "tier": "Tier C",
+  "Cpf Cnpj": 28948508000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1879,
+  "tier": "Tier B",
+  "Cpf Cnpj": 23203891000189,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1894,
+  "tier": "Tier S",
+  "Cpf Cnpj": 44308986000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1896,
+  "tier": "Tier B",
+  "Cpf Cnpj": "31.507.354\/0001-50",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1902,
+  "tier": "Tier A",
+  "Cpf Cnpj": 37308094000170,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1904,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27084832000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1935,
+  "tier": "Tier A",
+  "Cpf Cnpj": 46979853000118,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1937,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5761837000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1958,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34529807000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1965,
+  "tier": "Tier A",
+  "Cpf Cnpj": 42027436000114,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1967,
+  "tier": "Tier C",
+  "Cpf Cnpj": 18983076000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1969,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36293234000111,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1972,
+  "tier": "Tier B",
+  "Cpf Cnpj": 46149762000155,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1974,
+  "tier": "Tier C",
+  "Cpf Cnpj": 52559245000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1984,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22299682000118,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 1988,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45663203000104,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 1996,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36809839000112,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 1999,
+  "tier": "Tier A",
+  "Cpf Cnpj": 45543938000196,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2005,
+  "tier": "Tier B",
+  "Cpf Cnpj": "28.110.865\/0001-20",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2008,
+  "tier": "Tier B",
+  "Cpf Cnpj": 17660837000160,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2011,
+  "tier": "Tier A",
+  "Cpf Cnpj": 11573134000118,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2016,
+  "tier": "Tier C",
+  "Cpf Cnpj": 12529086000123,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2027,
+  "tier": "Tier A",
+  "Cpf Cnpj": 34909629000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2028,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46416578000124,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2035,
+  "tier": "Tier B",
+  "Cpf Cnpj": 45827892000137,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2040,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42658193000112,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2043,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45951901000105,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2048,
+  "tier": "Tier C",
+  "Cpf Cnpj": 23059000000162,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2065,
+  "tier": "Tier A",
+  "Cpf Cnpj": 20555377000114,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2067,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36803007000199,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2068,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29796548000171,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2073,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36640806000191,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2086,
+  "tier": "Tier C",
+  "Cpf Cnpj": 71564000115,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2101,
+  "tier": "Tier B",
+  "Cpf Cnpj": 30194362000121,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2103,
+  "tier": "Tier S",
+  "Cpf Cnpj": "46.740.068\/0001-08",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2106,
+  "tier": "Tier A",
+  "Cpf Cnpj": 23432285000135,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 2109,
+  "tier": "Tier C",
+  "Cpf Cnpj": 31367834000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2119,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37847866000142,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2123,
+  "tier": "Tier S",
+  "Cpf Cnpj": "36.414.568\/0001-04",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2124,
+  "tier": "Tier B",
+  "Cpf Cnpj": 8678216000384,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2134,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43206475000141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2141,
+  "tier": "Tier C",
+  "Cpf Cnpj": 31657577000102,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2148,
+  "tier": "Tier B",
+  "Cpf Cnpj": 14103316000113,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2151,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35420192000170,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2154,
+  "tier": "Tier B",
+  "Cpf Cnpj": 23001409000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2156,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19395366000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2163,
+  "tier": "Tier B",
+  "Cpf Cnpj": 37377180000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2166,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29162135000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2172,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32821660000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2178,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43476962000124,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 2184,
+  "tier": "Tier A",
+  "Cpf Cnpj": 41354331000107,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2189,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34123359000178,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2197,
+  "tier": "Tier B",
+  "Cpf Cnpj": 28657706000140,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2208,
+  "tier": "Tier B",
+  "Cpf Cnpj": 71820355101,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2210,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41265491000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2211,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42428758000175,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2221,
+  "tier": "Tier S",
+  "Cpf Cnpj": 10976739000197,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2238,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45632230000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2244,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44551787000155,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2252,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19531942000124,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2253,
+  "tier": "Tier S",
+  "Cpf Cnpj": 36602073000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2255,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29694864000132,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2259,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39480010000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2272,
+  "tier": "Tier A",
+  "Cpf Cnpj": 38095989000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2277,
+  "tier": "Tier B",
+  "Cpf Cnpj": 39694036000158,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2280,
+  "tier": "Tier C",
+  "Cpf Cnpj": 60438488000165,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2286,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5630548000139,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2298,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33548966000117,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2302,
+  "tier": "Tier A",
+  "Cpf Cnpj": 39345508000167,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2308,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32919054000141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2311,
+  "tier": "Tier B",
+  "Cpf Cnpj": "34.119.841\/0001-34",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2314,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44617407000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2317,
+  "tier": "Tier A",
+  "Cpf Cnpj": 47186379000130,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2324,
+  "tier": "Tier B",
+  "Cpf Cnpj": 22513910000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2326,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26278243000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2331,
+  "tier": "Tier C",
+  "Cpf Cnpj": 31515363000193,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2332,
+  "tier": "Tier C",
+  "Cpf Cnpj": 17945580000192,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 2363,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41645419000188,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2366,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43857370000152,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2380,
+  "tier": "Tier B",
+  "Cpf Cnpj": 31697310000130,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2391,
+  "tier": "Tier A",
+  "Cpf Cnpj": 36668918000150,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2399,
+  "tier": "Tier B",
+  "Cpf Cnpj": 9627968000117,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2400,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40365423000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2411,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40269289000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2413,
+  "tier": "Tier A",
+  "Cpf Cnpj": 56999897000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2419,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47521231000104,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 2420,
+  "tier": "Tier C",
+  "Cpf Cnpj": "41.968.548\/0001-07",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2422,
+  "tier": "Tier S",
+  "Cpf Cnpj": 22940411001090,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2427,
+  "tier": "Tier B",
+  "Cpf Cnpj": 31385105000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2431,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14130478000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2432,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30573964000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2434,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42658193000112,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2447,
+  "tier": "Tier B",
+  "Cpf Cnpj": 47352797000150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2453,
+  "tier": "Tier A",
+  "Cpf Cnpj": 46981235000102,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2461,
+  "tier": "Tier A",
+  "Cpf Cnpj": "34.489.480\/0001-18",
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2462,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46424430000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2466,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7187796000425,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2477,
+  "tier": "Tier C",
+  "Cpf Cnpj": 17771775004665,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2481,
+  "tier": "Tier B",
+  "Cpf Cnpj": 6345965000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2484,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46742453000194,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2486,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44203241000103,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2494,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47325018000127,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2499,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42769192000145,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2500,
+  "tier": "Tier B",
+  "Cpf Cnpj": "49.050.321\/0001-90",
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 2503,
+  "tier": "Tier B",
+  "Cpf Cnpj": 47020523000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2509,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43367700000121,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2510,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5152653141,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2512,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46083547000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2517,
+  "tier": "Tier A",
+  "Cpf Cnpj": 46549010000181,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2518,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32731459000151,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2523,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41174785000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2524,
+  "tier": "Tier A",
+  "Cpf Cnpj": "49.797.025\/0001-57",
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 2527,
+  "tier": "Tier C",
+  "Cpf Cnpj": 3623138000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2529,
+  "tier": "Tier A",
+  "Cpf Cnpj": 50337590000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2537,
+  "tier": "Tier C",
+  "Cpf Cnpj": 12038810000116,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2538,
+  "tier": "Tier C",
+  "Cpf Cnpj": 55296126000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2545,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51230210000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2549,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33695375000172,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2551,
+  "tier": "Tier C",
+  "Cpf Cnpj": "39.793.035\/0001-60",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2557,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47633311000151,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2560,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29975119000161,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2563,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44767149000176,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2564,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4682541536,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2581,
+  "tier": "Tier B",
+  "Cpf Cnpj": 4310309000139,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2582,
+  "tier": "Tier A",
+  "Cpf Cnpj": 23046715000180,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2592,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36870795000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2602,
+  "tier": "Tier C",
+  "Cpf Cnpj": 54262808000176,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2604,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42658193000112,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2606,
+  "tier": "Tier C",
+  "Cpf Cnpj": 9255281000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2615,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47836582000104,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2619,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40701110000286,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2621,
+  "tier": "Tier C",
+  "Cpf Cnpj": "25.329.364\/0001-40",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2622,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47489022000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2625,
+  "tier": "Tier B",
+  "Cpf Cnpj": 45791419000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2627,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46902176000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2630,
+  "tier": "Tier A",
+  "Cpf Cnpj": 36181959000118,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2649,
+  "tier": "Tier B",
+  "Cpf Cnpj": 42113094000155,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2653,
+  "tier": "Tier B",
+  "Cpf Cnpj": "05.601.752\/0002-02",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2656,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49506796000148,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2657,
+  "tier": "Tier C",
+  "Cpf Cnpj": 11553074000171,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2658,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40228206000198,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2670,
+  "tier": "Tier C",
+  "Cpf Cnpj": 15092270675,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2675,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19847571000194,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2676,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44263052000126,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2681,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48320092000113,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2685,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43416613000117,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2689,
+  "tier": "Tier B",
+  "Cpf Cnpj": 68559038000132,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2695,
+  "tier": "Tier A",
+  "Cpf Cnpj": 21969008000130,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2696,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27406473000140,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2699,
+  "tier": "Tier C",
+  "Cpf Cnpj": 23162206000113,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2701,
+  "tier": "Tier B",
+  "Cpf Cnpj": 25015766000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2703,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42886302000159,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2704,
+  "tier": "Tier C",
+  "Cpf Cnpj": 6061356420,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2706,
+  "tier": "Tier B",
+  "Cpf Cnpj": 47773658000108,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2714,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7983243000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2723,
+  "tier": "Tier C",
+  "Cpf Cnpj": 9024465000661,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2731,
+  "tier": "Tier C",
+  "Cpf Cnpj": 25266329000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2737,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29825620000141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2745,
+  "tier": "Tier B",
+  "Cpf Cnpj": 38231448000199,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2750,
+  "tier": "Tier A",
+  "Cpf Cnpj": 40733753000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2756,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5702847000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2759,
+  "tier": "Tier B",
+  "Cpf Cnpj": 30122353000125,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2765,
+  "tier": "Tier C",
+  "Cpf Cnpj": 9324354000166,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2777,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46896282000158,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2788,
+  "tier": "Tier B",
+  "Cpf Cnpj": 20240813000166,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2797,
+  "tier": "Tier C",
+  "Cpf Cnpj": 20424483000169,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2822,
+  "tier": "Tier A",
+  "Cpf Cnpj": 45227136000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2825,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41741749000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2826,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26472135000143,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2829,
+  "tier": "Tier A",
+  "Cpf Cnpj": 39716272000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2842,
+  "tier": "Tier B",
+  "Cpf Cnpj": 40173472000160,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 2843,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33818678000135,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2852,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37944060000172,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2855,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36754142000191,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2866,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44959465000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2868,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29522401000193,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2869,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35583980000187,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2875,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48253562000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2882,
+  "tier": "Tier S",
+  "Cpf Cnpj": "52.807.019\/0001-48",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2884,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19257092000118,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2890,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47841681000184,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 2900,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39595747000175,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2908,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44593907000187,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 2915,
+  "tier": "Tier C",
+  "Cpf Cnpj": 28326118000123,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2916,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33649704000149,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2921,
+  "tier": "Tier S",
+  "Cpf Cnpj": "26.247.727\/0002-42",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2928,
+  "tier": "Tier C",
+  "Cpf Cnpj": 16936053000159,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 2932,
+  "tier": "Tier S",
+  "Cpf Cnpj": "26.247.727\/0001-61",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2942,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33665224000171,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2947,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19686606000150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2951,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36836457000188,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2970,
+  "tier": "Tier B",
+  "Cpf Cnpj": 11564731000186,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2972,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45358642000103,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2981,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48018236000181,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 2997,
+  "tier": "Tier A",
+  "Cpf Cnpj": 34487093000142,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3007,
+  "tier": "Tier A",
+  "Cpf Cnpj": 14906008000126,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3008,
+  "tier": "Tier B",
+  "Cpf Cnpj": 31677380000127,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3013,
+  "tier": "Tier B",
+  "Cpf Cnpj": 46425924000130,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3027,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39253663000153,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3028,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43258935000185,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3036,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29978588000134,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3052,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46647900000126,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 3053,
+  "tier": "Tier A",
+  "Cpf Cnpj": 11751836000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3063,
+  "tier": "Tier A",
+  "Cpf Cnpj": "53.262.551\/0001-90",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3066,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47366605000164,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3071,
+  "tier": "Tier B",
+  "Cpf Cnpj": "36.441.233\/0001-77",
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 3077,
+  "tier": "Tier C",
+  "Cpf Cnpj": 31128998000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3086,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4510055544,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3094,
+  "tier": "Tier C",
+  "Cpf Cnpj": "33.534.020\/0001-00",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3098,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32904673000162,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3102,
+  "tier": "Tier B",
+  "Cpf Cnpj": 17748411000162,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3104,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34380351000197,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 3106,
+  "tier": "Tier B",
+  "Cpf Cnpj": 42474347000116,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3110,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36526554000174,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3125,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41675155000105,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3128,
+  "tier": "Tier B",
+  "Cpf Cnpj": 33261033000144,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3129,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46768200000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3137,
+  "tier": "Tier C",
+  "Cpf Cnpj": "44.593.436\/0001-07",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3140,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36521954000197,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3145,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46098409000193,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3146,
+  "tier": "Tier B",
+  "Cpf Cnpj": "42.915.102\/0001-87",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3149,
+  "tier": "Tier B",
+  "Cpf Cnpj": 8492735000191,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3152,
+  "tier": "Tier S",
+  "Cpf Cnpj": 47482650000184,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3158,
+  "tier": "Tier C",
+  "Cpf Cnpj": "45.249.709\/0001-63",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3164,
+  "tier": "Tier A",
+  "Cpf Cnpj": 21264458000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3166,
+  "tier": "Tier B",
+  "Cpf Cnpj": 40931798000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3179,
+  "tier": "Tier A",
+  "Cpf Cnpj": 16539688000112,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3180,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46742453000194,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 3193,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46207264000111,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3201,
+  "tier": "Tier C",
+  "Cpf Cnpj": "36.586.401\/0001-12",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3204,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30971748000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3213,
+  "tier": "Tier A",
+  "Cpf Cnpj": 28953641000180,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3216,
+  "tier": "Tier A",
+  "Cpf Cnpj": 15202716702,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3226,
+  "tier": "Tier B",
+  "Cpf Cnpj": 52641879000154,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 323,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19300153000182,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3246,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47530594000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3248,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14122939798,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3256,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37661192000197,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3264,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22249918000101,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 3266,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35545638000191,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 3267,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30556806000121,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3268,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48494419000173,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3270,
+  "tier": "Tier A",
+  "Cpf Cnpj": 38710550000177,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3276,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40005377000158,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 3286,
+  "tier": "Tier A",
+  "Cpf Cnpj": 35235342000175,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3293,
+  "tier": "Tier A",
+  "Cpf Cnpj": 23839843000181,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 3312,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30252745000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3314,
+  "tier": "Tier C",
+  "Cpf Cnpj": "30.314.046\/0001-46",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3325,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48578627000150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3328,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39571115000171,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3340,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48323178000108,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3344,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48398371000108,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3347,
+  "tier": "Tier C",
+  "Cpf Cnpj": 21021546000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3355,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43643880000127,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3356,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30437685000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3360,
+  "tier": "Tier A",
+  "Cpf Cnpj": 42718842000123,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3367,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48538865000132,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3369,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4167594595,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3374,
+  "tier": "Tier A",
+  "Cpf Cnpj": 54460912000175,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 3376,
+  "tier": "Tier A",
+  "Cpf Cnpj": "01.436.319\/0002-08",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3377,
+  "tier": "Tier A",
+  "Cpf Cnpj": 14615648000187,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3378,
+  "tier": "Tier C",
+  "Cpf Cnpj": 12310647000107,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 338,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27723989000118,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3381,
+  "tier": "Tier B",
+  "Cpf Cnpj": "33.634.223\/0001-60",
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 3386,
+  "tier": "Tier A",
+  "Cpf Cnpj": 41797875000143,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3391,
+  "tier": "Tier B",
+  "Cpf Cnpj": 18162527000188,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3392,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30104998000135,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3395,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24523617000150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3398,
+  "tier": "Tier B",
+  "Cpf Cnpj": 10339632000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3405,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0009-97",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3411,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26555290000123,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3414,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33978137000174,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3417,
+  "tier": "Tier C",
+  "Cpf Cnpj": 71044676299,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 3419,
+  "tier": "Tier C",
+  "Cpf Cnpj": 13182922718,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3423,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43513770000221,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3444,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44629473000128,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3445,
+  "tier": "Tier B",
+  "Cpf Cnpj": "42.964.150\/0001-65",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3446,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47467662000130,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3447,
+  "tier": "Tier C",
+  "Cpf Cnpj": "48.841.536\/0001-66",
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3448,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48151358000141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3453,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48192776000187,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3458,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47670697000171,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3460,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48144553000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3461,
+  "tier": "Tier C",
+  "Cpf Cnpj": 3689757000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3467,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0008-06",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3475,
+  "tier": "Tier B",
+  "Cpf Cnpj": "21.139.940\/0001-36",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3478,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0015-35",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3480,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0013-73",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3483,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0001-30",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3484,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0003-00",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3485,
+  "tier": "Tier S",
+  "Cpf Cnpj": "22.940.411\/0003-61",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3486,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0010-20",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3487,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0002-10",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3488,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0011-01",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3493,
+  "tier": "Tier C",
+  "Cpf Cnpj": 72777139000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3495,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32199032000154,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3515,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48879184000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3519,
+  "tier": "Tier B",
+  "Cpf Cnpj": 26614709000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3528,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4176832193,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3534,
+  "tier": "Tier B",
+  "Cpf Cnpj": 46654895000189,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3536,
+  "tier": "Tier C",
+  "Cpf Cnpj": 98367192000173,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3542,
+  "tier": "Tier B",
+  "Cpf Cnpj": 11864969830,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3557,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36254573000199,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3559,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19862830000156,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3563,
+  "tier": "Tier B",
+  "Cpf Cnpj": 44833034000132,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3573,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47248119000141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3581,
+  "tier": "Tier C",
+  "Cpf Cnpj": 18863414000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3582,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47124867000112,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3587,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40822803000146,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3589,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48174727000111,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3590,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19808814000185,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3591,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24403038000173,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3602,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40972511000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3605,
+  "tier": "Tier C",
+  "Cpf Cnpj": 23658546000130,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3607,
+  "tier": "Tier A",
+  "Cpf Cnpj": 28790977000179,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3616,
+  "tier": "Tier S",
+  "Cpf Cnpj": 28280622001292,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3629,
+  "tier": "Tier S",
+  "Cpf Cnpj": 35058553000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3634,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27172341000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3637,
+  "tier": "Tier A",
+  "Cpf Cnpj": 49433984000193,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3638,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49042108000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3640,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43675043000180,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 3642,
+  "tier": "Tier C",
+  "Cpf Cnpj": 113023561,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 3646,
+  "tier": "Tier A",
+  "Cpf Cnpj": 31518191000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3650,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37308735000197,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3658,
+  "tier": "Tier B",
+  "Cpf Cnpj": 30899928000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3660,
+  "tier": "Tier C",
+  "Cpf Cnpj": 21481302000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3662,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48638328000164,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3663,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45788401000196,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3669,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8314428000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3692,
+  "tier": "Tier B",
+  "Cpf Cnpj": 19327022000199,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 3695,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10246305000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3699,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27108370000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3700,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33546354000195,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3719,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47781278000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3724,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45437474000133,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3725,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39833902000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3731,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47764449000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3734,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10528295000127,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3738,
+  "tier": "Tier B",
+  "Cpf Cnpj": 46076132000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3744,
+  "tier": "Tier C",
+  "Cpf Cnpj": 31749384000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3753,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38419899000154,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3755,
+  "tier": "Tier C",
+  "Cpf Cnpj": "49.129.337\/0001-92",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3759,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30232309000178,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3765,
+  "tier": "Tier C",
+  "Cpf Cnpj": "30.630.766\/0001-10",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3774,
+  "tier": "Tier S",
+  "Cpf Cnpj": "48.351.731\/0001-08",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3786,
+  "tier": "Tier B",
+  "Cpf Cnpj": 49710772000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3788,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29045253000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3794,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19520486000117,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3803,
+  "tier": "Tier A",
+  "Cpf Cnpj": 29167091000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3807,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48255287000127,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3814,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29498556000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3819,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47805154000114,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3829,
+  "tier": "Tier C",
+  "Cpf Cnpj": 21472471000172,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3833,
+  "tier": "Tier C",
+  "Cpf Cnpj": 12280003000105,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3859,
+  "tier": "Tier C",
+  "Cpf Cnpj": "48.606.865\/0001-22",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3865,
+  "tier": "Tier C",
+  "Cpf Cnpj": "49.898.470\/0001-03",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3870,
+  "tier": "Tier C",
+  "Cpf Cnpj": 13427987000177,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3871,
+  "tier": "Tier S",
+  "Cpf Cnpj": "45.212.886\/0001-75",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3875,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36616087000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3881,
+  "tier": "Tier C",
+  "Cpf Cnpj": "42.257.669\/0001-03",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3886,
+  "tier": "Tier A",
+  "Cpf Cnpj": "38.385.827\/0001-33",
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 3893,
+  "tier": "Tier S",
+  "Cpf Cnpj": "35.058.553\/0002-60",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3904,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8810619000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3905,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40651096000172,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3909,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42866876000165,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3911,
+  "tier": "Tier C",
+  "Cpf Cnpj": 99627353191,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3920,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42949979000199,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3921,
+  "tier": "Tier C",
+  "Cpf Cnpj": 28584160000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3932,
+  "tier": "Tier C",
+  "Cpf Cnpj": 16725707000103,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3939,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47260180000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3941,
+  "tier": "Tier C",
+  "Cpf Cnpj": 21442301000145,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3956,
+  "tier": "Tier B",
+  "Cpf Cnpj": 30629981000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3958,
+  "tier": "Tier S",
+  "Cpf Cnpj": "57.055.058\/0001-50",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3959,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47688694000165,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3961,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48266062000176,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3962,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35672399000131,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3963,
+  "tier": "Tier C",
+  "Cpf Cnpj": 17789411000100,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 3972,
+  "tier": "Tier A",
+  "Cpf Cnpj": 43092301000103,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 3981,
+  "tier": "Tier B",
+  "Cpf Cnpj": 45397222000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3990,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40658388000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 3996,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35603044000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4002,
+  "tier": "Tier C",
+  "Cpf Cnpj": 20499863000162,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4011,
+  "tier": "Tier C",
+  "Cpf Cnpj": "50.278.299\/0001-19",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4014,
+  "tier": "Tier C",
+  "Cpf Cnpj": "41.974.404\/0001-63",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4017,
+  "tier": "Tier B",
+  "Cpf Cnpj": 31426210000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4028,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42990629000176,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4031,
+  "tier": "Tier A",
+  "Cpf Cnpj": 42019768000157,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4033,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22562640000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4039,
+  "tier": "Tier B",
+  "Cpf Cnpj": "54.225.382\/0001-80",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4043,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48400858000170,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4049,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48509498000149,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4054,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29939982000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4063,
+  "tier": "Tier B",
+  "Cpf Cnpj": 45355147000132,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4066,
+  "tier": "Tier A",
+  "Cpf Cnpj": 74515867000116,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4074,
+  "tier": "Tier C",
+  "Cpf Cnpj": 94878758000413,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4081,
+  "tier": "Tier B",
+  "Cpf Cnpj": "17.074.314\/0002-12",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4088,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38823453000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4090,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37327546000161,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4103,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45566696000156,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4111,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37764688000196,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4113,
+  "tier": "Tier C",
+  "Cpf Cnpj": "41.419.188\/0001-94",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4120,
+  "tier": "Tier C",
+  "Cpf Cnpj": "42.173.415\/0001-07",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4122,
+  "tier": "Tier B",
+  "Cpf Cnpj": 33491135000156,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4127,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41648869000124,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4128,
+  "tier": "Tier C",
+  "Cpf Cnpj": "45.239.088\/0001-37",
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 4140,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33491135000156,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4156,
+  "tier": "Tier C",
+  "Cpf Cnpj": 11814379000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4162,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24311352000126,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4173,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38336565000117,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4185,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33402010000102,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4186,
+  "tier": "Tier C",
+  "Cpf Cnpj": 25136129000152,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4190,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36124993000150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4199,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49402826000176,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4207,
+  "tier": "Tier C",
+  "Cpf Cnpj": 20710336000155,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4209,
+  "tier": "Tier C",
+  "Cpf Cnpj": "27.717.927\/0001-01",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4212,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26299118881,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 4217,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50003802000123,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4228,
+  "tier": "Tier A",
+  "Cpf Cnpj": 21478990000148,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4231,
+  "tier": "Tier A",
+  "Cpf Cnpj": "50.071.913\/0002-58",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4234,
+  "tier": "Tier C",
+  "Cpf Cnpj": "48.121.346\/0001-74",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4239,
+  "tier": "Tier A",
+  "Cpf Cnpj": 44213231000159,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4254,
+  "tier": "Tier B",
+  "Cpf Cnpj": 40974588000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4261,
+  "tier": "Tier B",
+  "Cpf Cnpj": 47967410000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4266,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36446157000192,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4280,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47918023000143,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4283,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22547142000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4284,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29181400000122,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 4286,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24238410000133,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4298,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45234235000186,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4301,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39243950000182,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4303,
+  "tier": "Tier A",
+  "Cpf Cnpj": 33217303000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4309,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35451133000169,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4312,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49655049000171,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4314,
+  "tier": "Tier C",
+  "Cpf Cnpj": 2756548936,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4316,
+  "tier": "Tier S",
+  "Cpf Cnpj": "49.702.695\/0001-42",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4317,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10212142000176,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4328,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30660715000131,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4330,
+  "tier": "Tier A",
+  "Cpf Cnpj": 39273146000146,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4337,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27370165000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4343,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50568816000194,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 4344,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27284239000197,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4347,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38086858000193,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4367,
+  "tier": "Tier C",
+  "Cpf Cnpj": 57810172000148,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4370,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49426643000190,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 4380,
+  "tier": "Tier A",
+  "Cpf Cnpj": 48529545000116,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4381,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40702064000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4383,
+  "tier": "Tier C",
+  "Cpf Cnpj": "27.294.926\/0001-93",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4393,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43060633000106,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4404,
+  "tier": "Tier C",
+  "Cpf Cnpj": 6147441485,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4435,
+  "tier": "Tier B",
+  "Cpf Cnpj": 45856315000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4436,
+  "tier": "Tier C",
+  "Cpf Cnpj": "42.278.088\/0001-58",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4443,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48882016000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4444,
+  "tier": "Tier C",
+  "Cpf Cnpj": "22.375.599\/0001-80",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4447,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33814412000114,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4452,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38339111000108,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4455,
+  "tier": "Tier C",
+  "Cpf Cnpj": "49.220.727\/0001-73",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4463,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46135115000194,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4466,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40438617000108,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 4469,
+  "tier": "Tier A",
+  "Cpf Cnpj": 28379895000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4473,
+  "tier": "Tier B",
+  "Cpf Cnpj": 44658251000214,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4475,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40649989000183,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4476,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36608026000164,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4478,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36179107000196,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4480,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51097932000135,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 4497,
+  "tier": "Tier C",
+  "Cpf Cnpj": 89936710444,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 4509,
+  "tier": "Tier B",
+  "Cpf Cnpj": 32226963000102,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 4510,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43465213000100,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 4512,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37106221000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4513,
+  "tier": "Tier S",
+  "Cpf Cnpj": "26.716.061\/0001-43",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4516,
+  "tier": "Tier A",
+  "Cpf Cnpj": 12284531792,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4519,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8766771706,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4529,
+  "tier": "Tier B",
+  "Cpf Cnpj": 27209735000186,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4534,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36328579000163,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 4535,
+  "tier": "Tier C",
+  "Cpf Cnpj": 90001447000178,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 4537,
+  "tier": "Tier C",
+  "Cpf Cnpj": "13.913.490\/0002-40",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4539,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43475454000121,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4545,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47145710000173,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4552,
+  "tier": "Tier C",
+  "Cpf Cnpj": 85937557557,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4554,
+  "tier": "Tier C",
+  "Cpf Cnpj": 6914669635,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 4556,
+  "tier": "Tier C",
+  "Cpf Cnpj": "58.430.297\/0001-05",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4559,
+  "tier": "Tier C",
+  "Cpf Cnpj": "28.498.669\/0001-74",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4566,
+  "tier": "Tier C",
+  "Cpf Cnpj": "10.808.000\/0001-76",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4570,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42147430000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4579,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46129584000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4592,
+  "tier": "Tier B",
+  "Cpf Cnpj": 27675926000133,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4600,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29950707000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4603,
+  "tier": "Tier A",
+  "Cpf Cnpj": 30664186000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4608,
+  "tier": "Tier B",
+  "Cpf Cnpj": 49486443000123,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4612,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43585490000148,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4619,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4404552513,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4620,
+  "tier": "Tier B",
+  "Cpf Cnpj": 27586226000172,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4623,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10375005633,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 4626,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44324136000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4629,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50002644000197,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 4639,
+  "tier": "Tier A",
+  "Cpf Cnpj": 59739037291,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4642,
+  "tier": "Tier A",
+  "Cpf Cnpj": 49686414000105,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4646,
+  "tier": "Tier B",
+  "Cpf Cnpj": 28804502000194,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4652,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44796133000191,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 4657,
+  "tier": "Tier B",
+  "Cpf Cnpj": "04.874.861\/0001-50",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4664,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30847847000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4670,
+  "tier": "Tier B",
+  "Cpf Cnpj": 37224280000121,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4673,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29176429000116,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4680,
+  "tier": "Tier S",
+  "Cpf Cnpj": 46484559000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4684,
+  "tier": "Tier B",
+  "Cpf Cnpj": 49843511000164,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4706,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36500609000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4708,
+  "tier": "Tier B",
+  "Cpf Cnpj": "35.152.813\/0001-81",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4709,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26111728000184,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 4710,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45980367000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4716,
+  "tier": "Tier C",
+  "Cpf Cnpj": "35.257.599\/0001-28",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4723,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34928233000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4728,
+  "tier": "Tier A",
+  "Cpf Cnpj": 48127677000111,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4730,
+  "tier": "Tier A",
+  "Cpf Cnpj": "45.348.606\/0001-50",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4732,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48687713000100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4736,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45836599000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4738,
+  "tier": "Tier A",
+  "Cpf Cnpj": "35.901.606\/0001-82",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 4739,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43110847000131,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4741,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48553166000161,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4764,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34152960000199,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4772,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49231481000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4781,
+  "tier": "Tier B",
+  "Cpf Cnpj": 50120854000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4783,
+  "tier": "Tier A",
+  "Cpf Cnpj": 17132988000145,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4792,
+  "tier": "Tier S",
+  "Cpf Cnpj": 26247727000404,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4793,
+  "tier": "Tier S",
+  "Cpf Cnpj": "26.247.727\/0006-76",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4794,
+  "tier": "Tier S",
+  "Cpf Cnpj": 26247727000323,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4796,
+  "tier": "Tier S",
+  "Cpf Cnpj": "26.247.727\/0005-95",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4797,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43218153000112,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4803,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14688920709,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4804,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49683852000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4805,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50748632000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4812,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30466550000161,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4814,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45985723000125,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4826,
+  "tier": "Tier B",
+  "Cpf Cnpj": 29017145000187,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4833,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48125225000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4837,
+  "tier": "Tier B",
+  "Cpf Cnpj": "10.759.746\/0001-37",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4839,
+  "tier": "Tier A",
+  "Cpf Cnpj": 48285876000158,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4847,
+  "tier": "Tier A",
+  "Cpf Cnpj": 20720853000105,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4853,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37897798000126,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4865,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30794159000196,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4874,
+  "tier": "Tier A",
+  "Cpf Cnpj": 40914405000150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4879,
+  "tier": "Tier C",
+  "Cpf Cnpj": "54.734.593\/0001-49",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4880,
+  "tier": "Tier C",
+  "Cpf Cnpj": 16560677000114,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 4890,
+  "tier": "Tier C",
+  "Cpf Cnpj": 34163814000169,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4898,
+  "tier": "Tier C",
+  "Cpf Cnpj": "05.417.461\/0006-92",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4901,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47476628000121,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4911,
+  "tier": "Tier C",
+  "Cpf Cnpj": "42.731.021\/0001-27",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4916,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40643438000102,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4927,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26681172000161,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 4930,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36728985000113,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4944,
+  "tier": "Tier B",
+  "Cpf Cnpj": 23793949000191,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4945,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36234059000191,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4960,
+  "tier": "Tier B",
+  "Cpf Cnpj": "30.740.101\/0001-60",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4962,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41320924000152,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4964,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46230805000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4968,
+  "tier": "Tier C",
+  "Cpf Cnpj": "40.832.969\/0001-43",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4976,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7393993902,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4977,
+  "tier": "Tier B",
+  "Cpf Cnpj": 3280905141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4980,
+  "tier": "Tier B",
+  "Cpf Cnpj": 34927882000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4988,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29575440000159,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 4989,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46805874000117,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 4991,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44316216000136,
+  "proridade": "CLIENTES GETSTORE"
+ },
+ {
+  "id": 4998,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48822649000114,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10710094000146,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5000,
+  "tier": "Tier C",
+  "Cpf Cnpj": 18447388000139,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5001,
+  "tier": "Tier A",
+  "Cpf Cnpj": "50.184.116\/0001-04",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5006,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47894597000129,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5009,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48370172000183,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5017,
+  "tier": "Tier B",
+  "Cpf Cnpj": 5716848150,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5020,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0019-69",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5021,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0018-88",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5022,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29090649000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5024,
+  "tier": "Tier B",
+  "Cpf Cnpj": 10327046000254,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5026,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43894532000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5039,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46333285000183,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5044,
+  "tier": "Tier A",
+  "Cpf Cnpj": 49090727000104,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5056,
+  "tier": "Tier C",
+  "Cpf Cnpj": 3551755337,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5058,
+  "tier": "Tier A",
+  "Cpf Cnpj": 9605990000166,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5066,
+  "tier": "Tier B",
+  "Cpf Cnpj": 17575227000168,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5070,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47116978000187,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5072,
+  "tier": "Tier C",
+  "Cpf Cnpj": 47513895000121,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5079,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38260374000119,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5084,
+  "tier": "Tier C",
+  "Cpf Cnpj": "49.241.248\/0001-33",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5088,
+  "tier": "Tier B",
+  "Cpf Cnpj": 94726744291,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5094,
+  "tier": "Tier B",
+  "Cpf Cnpj": 48342464000102,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5099,
+  "tier": "Tier A",
+  "Cpf Cnpj": 46344699000108,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5102,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14488599729,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5106,
+  "tier": "Tier B",
+  "Cpf Cnpj": "04.874.861\/0002-30",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5107,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50108507000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5108,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10194096000200,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5129,
+  "tier": "Tier A",
+  "Cpf Cnpj": 28801822000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5138,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41556702000133,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5144,
+  "tier": "Tier C",
+  "Cpf Cnpj": 13384796799,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5145,
+  "tier": "Tier B",
+  "Cpf Cnpj": 35635670000169,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5147,
+  "tier": "Tier A",
+  "Cpf Cnpj": 40082554862,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 516,
+  "tier": "Tier B",
+  "Cpf Cnpj": "14.737.321\/0001-88",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5162,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35853031000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5165,
+  "tier": "Tier C",
+  "Cpf Cnpj": "42.033.193\/0001-27",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5169,
+  "tier": "Tier C",
+  "Cpf Cnpj": 18675262000111,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5172,
+  "tier": "Tier C",
+  "Cpf Cnpj": 2509947982,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5178,
+  "tier": "Tier A",
+  "Cpf Cnpj": 50684266000179,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 5181,
+  "tier": "Tier C",
+  "Cpf Cnpj": 1279251204,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5185,
+  "tier": "Tier C",
+  "Cpf Cnpj": "31.079.512\/0001-19",
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 5189,
+  "tier": "Tier B",
+  "Cpf Cnpj": "49.341.579\/0001-45",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5190,
+  "tier": "Tier S",
+  "Cpf Cnpj": "28.280.622\/0021-83",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5192,
+  "tier": "Tier C",
+  "Cpf Cnpj": 11709407816,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5198,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43686359000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5202,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49507196000102,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5206,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48729205000139,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5213,
+  "tier": "Tier A",
+  "Cpf Cnpj": 49448843000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5214,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44627897000153,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5219,
+  "tier": "Tier A",
+  "Cpf Cnpj": 44247877000157,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5221,
+  "tier": "Tier C",
+  "Cpf Cnpj": 974807036,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5227,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37778505000191,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5231,
+  "tier": "Tier C",
+  "Cpf Cnpj": 13823676000127,
+  "proridade": "FVE - Getnet"
+ },
+ {
+  "id": 5232,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40020409000194,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5233,
+  "tier": "Tier C",
+  "Cpf Cnpj": 21541799000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5235,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35301378000100,
+  "proridade": "PAY +"
+ },
+ {
+  "id": 5237,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49691854000150,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5243,
+  "tier": "Tier A",
+  "Cpf Cnpj": 28587557000190,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5245,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50109044000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5256,
+  "tier": "Tier B",
+  "Cpf Cnpj": 26817978000134,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5266,
+  "tier": "Tier A",
+  "Cpf Cnpj": 31230957000158,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5273,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30606139826,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5281,
+  "tier": "Tier S",
+  "Cpf Cnpj": 47030277000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5288,
+  "tier": "Tier A",
+  "Cpf Cnpj": 50017350000139,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5292,
+  "tier": "Tier A",
+  "Cpf Cnpj": 36358508000103,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5301,
+  "tier": "Tier B",
+  "Cpf Cnpj": 24401459000165,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5303,
+  "tier": "Tier B",
+  "Cpf Cnpj": 49814974000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5304,
+  "tier": "Tier C",
+  "Cpf Cnpj": 11969229000155,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5306,
+  "tier": "Tier B",
+  "Cpf Cnpj": 9602113000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5309,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42658193000112,
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 5310,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50311120000188,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5311,
+  "tier": "Tier B",
+  "Cpf Cnpj": 47925825000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5326,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49616328000126,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5328,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48283229000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5349,
+  "tier": "Tier C",
+  "Cpf Cnpj": "32.919.046\/0001-03",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5354,
+  "tier": "Tier A",
+  "Cpf Cnpj": 8701892000160,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5355,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32289494000162,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5358,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37297151000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5359,
+  "tier": "Tier B",
+  "Cpf Cnpj": 8260557000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5361,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42929394000107,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5364,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48963849000197,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5369,
+  "tier": "Tier A",
+  "Cpf Cnpj": 41732236000108,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5373,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49855019000109,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5377,
+  "tier": "Tier C",
+  "Cpf Cnpj": 16714627000144,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5382,
+  "tier": "Tier C",
+  "Cpf Cnpj": "50.273.282\/0001-79",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5386,
+  "tier": "Tier C",
+  "Cpf Cnpj": "127.377.077-30",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5390,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51882831000175,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5399,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24677669000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5402,
+  "tier": "Tier S",
+  "Cpf Cnpj": 83264540100,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5404,
+  "tier": "Tier S",
+  "Cpf Cnpj": 80139981187,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5407,
+  "tier": "Tier B",
+  "Cpf Cnpj": 3482931000919,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5409,
+  "tier": "Tier A",
+  "Cpf Cnpj": "28.303.733\/0001-14",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5433,
+  "tier": "Tier A",
+  "Cpf Cnpj": 44373286000126,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5434,
+  "tier": "Tier A",
+  "Cpf Cnpj": "38.741.906\/0002-10",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5457,
+  "tier": "Tier B",
+  "Cpf Cnpj": 16662097000219,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5458,
+  "tier": "Tier B",
+  "Cpf Cnpj": 13416866000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5460,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44356094000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5465,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49749134000107,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5468,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7232340354,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5470,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29333756809,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5471,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24565243000135,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5474,
+  "tier": "Tier B",
+  "Cpf Cnpj": 50034857000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5476,
+  "tier": "Tier A",
+  "Cpf Cnpj": 7989945000127,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5477,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43665479000198,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5478,
+  "tier": "Tier B",
+  "Cpf Cnpj": "25.023.785\/0001-49",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5488,
+  "tier": "Tier C",
+  "Cpf Cnpj": 49969722000148,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5489,
+  "tier": "Tier B",
+  "Cpf Cnpj": 14119436000290,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5494,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50763864000133,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5495,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51033180000149,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5497,
+  "tier": "Tier C",
+  "Cpf Cnpj": 38235638000184,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5498,
+  "tier": "Tier A",
+  "Cpf Cnpj": "51.782.537\/0001-91",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5569,
+  "tier": "Tier S",
+  "Cpf Cnpj": 47611412000393,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5579,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40059288000194,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5581,
+  "tier": "Tier B",
+  "Cpf Cnpj": 12667092000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5602,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26176117000114,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5605,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26266586000124,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5609,
+  "tier": "Tier A",
+  "Cpf Cnpj": 29639335000306,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 561,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30995124000115,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5615,
+  "tier": "Tier A",
+  "Cpf Cnpj": "94.907.631\/0001-32",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5618,
+  "tier": "Tier A",
+  "Cpf Cnpj": 26389990000195,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5619,
+  "tier": "Tier C",
+  "Cpf Cnpj": 2811521526,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5622,
+  "tier": "Tier A",
+  "Cpf Cnpj": 24996083000189,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5625,
+  "tier": "Tier C",
+  "Cpf Cnpj": "30.195.712\/0001-74",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5627,
+  "tier": "Tier C",
+  "Cpf Cnpj": 40373402000156,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5638,
+  "tier": "Tier A",
+  "Cpf Cnpj": 6016454000137,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 5639,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45793469000163,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5706,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35621140000161,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5711,
+  "tier": "Tier A",
+  "Cpf Cnpj": 21854963000122,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5712,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43520991000146,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5713,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51094767000168,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5714,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41343822000152,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5716,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43626413000199,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5721,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44941273885,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5747,
+  "tier": "Tier C",
+  "Cpf Cnpj": 32873682000133,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 5748,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29153529847,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 5750,
+  "tier": "Tier A",
+  "Cpf Cnpj": 34009997000162,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5752,
+  "tier": "Tier C",
+  "Cpf Cnpj": 74891995904,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5759,
+  "tier": "Tier C",
+  "Cpf Cnpj": 3208859090,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5763,
+  "tier": "Tier B",
+  "Cpf Cnpj": 37466214000168,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 5764,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37554059000131,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5765,
+  "tier": "Tier C",
+  "Cpf Cnpj": "39.703.671\/0001-54",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5766,
+  "tier": "Tier C",
+  "Cpf Cnpj": 23506049000116,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5769,
+  "tier": "Tier A",
+  "Cpf Cnpj": 23623799000178,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5774,
+  "tier": "Tier B",
+  "Cpf Cnpj": 10194096000634,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5781,
+  "tier": "Tier A",
+  "Cpf Cnpj": 33916419000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5783,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50685394000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5784,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44077230000124,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5787,
+  "tier": "Tier C",
+  "Cpf Cnpj": 60004900000139,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 5789,
+  "tier": "Tier C",
+  "Cpf Cnpj": 9245487000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5792,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50195582000187,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5795,
+  "tier": "Tier B",
+  "Cpf Cnpj": "002.740.136-73",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5798,
+  "tier": "Tier C",
+  "Cpf Cnpj": 3346914000105,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5799,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33929823000155,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5800,
+  "tier": "Tier A",
+  "Cpf Cnpj": 43453645820,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 582,
+  "tier": "Tier A",
+  "Cpf Cnpj": 32537873000205,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5821,
+  "tier": "Tier C",
+  "Cpf Cnpj": 2521731390,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5823,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36697009000140,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5827,
+  "tier": "Tier C",
+  "Cpf Cnpj": "52.321.499\/0002-13",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5831,
+  "tier": "Tier B",
+  "Cpf Cnpj": 8897857833,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5834,
+  "tier": "Tier C",
+  "Cpf Cnpj": 53837686000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5846,
+  "tier": "Tier C",
+  "Cpf Cnpj": 12974597769,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5853,
+  "tier": "Tier B",
+  "Cpf Cnpj": "34.333.835\/0001-85",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5873,
+  "tier": "Tier B",
+  "Cpf Cnpj": 43425642000145,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5876,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33877418000130,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5879,
+  "tier": "Tier C",
+  "Cpf Cnpj": "10.736.282\/0001-43",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5882,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4771723000145,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5893,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14807099000142,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5898,
+  "tier": "Tier A",
+  "Cpf Cnpj": 4021270000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5921,
+  "tier": "Tier B",
+  "Cpf Cnpj": 29975715000141,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5922,
+  "tier": "Tier A",
+  "Cpf Cnpj": 41377527000117,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5929,
+  "tier": "Tier C",
+  "Cpf Cnpj": 20875741000123,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5930,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22345208000185,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5937,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36517379000159,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5942,
+  "tier": "Tier C",
+  "Cpf Cnpj": "33.929.823\/0001-55",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5946,
+  "tier": "Tier B",
+  "Cpf Cnpj": 47310012000186,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5950,
+  "tier": "Tier C",
+  "Cpf Cnpj": 54694076000193,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5956,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50545213000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5976,
+  "tier": "Tier C",
+  "Cpf Cnpj": 69081344749,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5979,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8309889000103,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 5980,
+  "tier": "Tier B",
+  "Cpf Cnpj": 6832877960,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5982,
+  "tier": "Tier B",
+  "Cpf Cnpj": 31063074000109,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5993,
+  "tier": "Tier C",
+  "Cpf Cnpj": 28674549000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 5996,
+  "tier": "Tier C",
+  "Cpf Cnpj": "51.382.822\/0001-15",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6001,
+  "tier": "Tier B",
+  "Cpf Cnpj": 46708276000120,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6003,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51056731000190,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6010,
+  "tier": "Tier B",
+  "Cpf Cnpj": "28.183.632\/0001-57",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6011,
+  "tier": "Tier C",
+  "Cpf Cnpj": 18058559000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6015,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46484559000305,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6016,
+  "tier": "Tier B",
+  "Cpf Cnpj": 16778599000129,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6018,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19076380000176,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 6035,
+  "tier": "Tier B",
+  "Cpf Cnpj": "44.701.637\/0001-80",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6042,
+  "tier": "Tier B",
+  "Cpf Cnpj": 51049891000101,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6044,
+  "tier": "Tier C",
+  "Cpf Cnpj": 62615599020,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6047,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5236035000148,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 6048,
+  "tier": "Tier C",
+  "Cpf Cnpj": "22.022.997\/0001-13",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6051,
+  "tier": "Tier C",
+  "Cpf Cnpj": 28688632000109,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6055,
+  "tier": "Tier B",
+  "Cpf Cnpj": 51406931000125,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6066,
+  "tier": "Tier C",
+  "Cpf Cnpj": 39732465000172,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6078,
+  "tier": "Tier B",
+  "Cpf Cnpj": 32412940000184,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6085,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14497337000160,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6086,
+  "tier": "Tier C",
+  "Cpf Cnpj": 27878376000150,
+  "proridade": "PAGSTAR"
+ },
+ {
+  "id": 6088,
+  "tier": "Tier C",
+  "Cpf Cnpj": 4713911313,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6092,
+  "tier": "Tier B",
+  "Cpf Cnpj": 7253429000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6093,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26840333000112,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 6099,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51517604000140,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6102,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48692869000170,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6104,
+  "tier": "Tier C",
+  "Cpf Cnpj": 44578541000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6105,
+  "tier": "Tier C",
+  "Cpf Cnpj": "14.862.875\/0001-07",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6108,
+  "tier": "Tier B",
+  "Cpf Cnpj": "28.086.398\/0001-40",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6110,
+  "tier": "Tier C",
+  "Cpf Cnpj": 9793626798,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6113,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22894298000163,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6115,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50704530000199,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6116,
+  "tier": "Tier C",
+  "Cpf Cnpj": 1939139252,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6124,
+  "tier": "Tier C",
+  "Cpf Cnpj": 26338314000192,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6125,
+  "tier": "Tier B",
+  "Cpf Cnpj": 45194850000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6127,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7645969504,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6144,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37765457000105,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6145,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48254610000148,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6151,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51193844000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6158,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51446746000164,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6165,
+  "tier": "Tier C",
+  "Cpf Cnpj": 19033607000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6166,
+  "tier": "Tier C",
+  "Cpf Cnpj": "17.214.840\/0001-50",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6168,
+  "tier": "Tier C",
+  "Cpf Cnpj": 87471752220,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6176,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41144391000103,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6186,
+  "tier": "Tier C",
+  "Cpf Cnpj": 30822592000279,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6187,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22387241000178,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6197,
+  "tier": "Tier B",
+  "Cpf Cnpj": 42363420000182,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6199,
+  "tier": "Tier A",
+  "Cpf Cnpj": 19078733000177,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6201,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35459810000195,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6204,
+  "tier": "Tier S",
+  "Cpf Cnpj": "03.506.047\/0004-62",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6205,
+  "tier": "Tier S",
+  "Cpf Cnpj": 3506047000381,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6206,
+  "tier": "Tier S",
+  "Cpf Cnpj": 3506047000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6212,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45917164000116,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6214,
+  "tier": "Tier S",
+  "Cpf Cnpj": "03.603.514\/0001-20",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6217,
+  "tier": "Tier C",
+  "Cpf Cnpj": 3603514000120,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6219,
+  "tier": "Tier S",
+  "Cpf Cnpj": 32872449000136,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6226,
+  "tier": "Tier C",
+  "Cpf Cnpj": 2895112000183,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6238,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5698458000180,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6241,
+  "tier": "Tier C",
+  "Cpf Cnpj": 48108618000104,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6242,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50376780000147,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6255,
+  "tier": "Tier S",
+  "Cpf Cnpj": 898894000189,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6256,
+  "tier": "Tier B",
+  "Cpf Cnpj": "31.301.737\/0001-78",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6257,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22826600000146,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6261,
+  "tier": "Tier A",
+  "Cpf Cnpj": "50.826.509\/0001-66",
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 6262,
+  "tier": "Tier C",
+  "Cpf Cnpj": "42.074.621\/0001-60",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6264,
+  "tier": "Tier A",
+  "Cpf Cnpj": 15257983004453,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6267,
+  "tier": "Tier B",
+  "Cpf Cnpj": 6937308701,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6271,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43023380000192,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6274,
+  "tier": "Tier A",
+  "Cpf Cnpj": 519110005,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6276,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35384963000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6284,
+  "tier": "Tier A",
+  "Cpf Cnpj": "51.646.682\/0001-45",
+  "proridade": "Distrito Federal - DF"
+ },
+ {
+  "id": 6285,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37796357000138,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6289,
+  "tier": "Tier C",
+  "Cpf Cnpj": 31740171000261,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6293,
+  "tier": "Tier C",
+  "Cpf Cnpj": 10935076832,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 6294,
+  "tier": "Tier C",
+  "Cpf Cnpj": 33140603860,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 6295,
+  "tier": "Tier A",
+  "Cpf Cnpj": 57457089000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6299,
+  "tier": "Tier C",
+  "Cpf Cnpj": 41888032000152,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 6306,
+  "tier": "Tier S",
+  "Cpf Cnpj": "57.544.430\/0001-91",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6311,
+  "tier": "Tier C",
+  "Cpf Cnpj": 15316196000103,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 6313,
+  "tier": "Tier A",
+  "Cpf Cnpj": 8293782000106,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6317,
+  "tier": "Tier C",
+  "Cpf Cnpj": 37784937000105,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 6319,
+  "tier": "Tier C",
+  "Cpf Cnpj": "38.238.698\/0001-50",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6321,
+  "tier": "Tier C",
+  "Cpf Cnpj": 29034577000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6323,
+  "tier": "Tier C",
+  "Cpf Cnpj": 55798350000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6328,
+  "tier": "Tier B",
+  "Cpf Cnpj": "12.916.661\/0001-40",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6336,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35280722000121,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6338,
+  "tier": "Tier A",
+  "Cpf Cnpj": 50491610000103,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6343,
+  "tier": "Tier B",
+  "Cpf Cnpj": 23994096000156,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6346,
+  "tier": "Tier C",
+  "Cpf Cnpj": 14732623727,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6350,
+  "tier": "Tier B",
+  "Cpf Cnpj": 51668579000104,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6366,
+  "tier": "Tier A",
+  "Cpf Cnpj": "33.363.250\/0001-45",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6368,
+  "tier": "Tier S",
+  "Cpf Cnpj": "51.051.566\/0001-83",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6370,
+  "tier": "Tier S",
+  "Cpf Cnpj": "51.506.168\/0001-04",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6377,
+  "tier": "Tier A",
+  "Cpf Cnpj": 46836126000100,
+  "proridade": "POPIPAY"
+ },
+ {
+  "id": 6379,
+  "tier": "Tier C",
+  "Cpf Cnpj": 45143825000101,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6385,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51565304000137,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6393,
+  "tier": "Tier C",
+  "Cpf Cnpj": "51.043.235\/0001-00",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6399,
+  "tier": "Tier C",
+  "Cpf Cnpj": 43957428000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 64,
+  "tier": "Tier A",
+  "Cpf Cnpj": "19.843.996\/0001-25",
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6401,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7002456000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6402,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24819745000145,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6404,
+  "tier": "Tier C",
+  "Cpf Cnpj": 24706595000163,
+  "proridade": "MULTI SOLUÇÕES"
+ },
+ {
+  "id": 6410,
+  "tier": "Tier C",
+  "Cpf Cnpj": 22580629858,
+  "proridade": "CASHFEST"
+ },
+ {
+  "id": 6416,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50047845000100,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6417,
+  "tier": "Tier C",
+  "Cpf Cnpj": 5495243803,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6418,
+  "tier": "Tier C",
+  "Cpf Cnpj": 42536863000128,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6421,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51688614000149,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6425,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51688614000149,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6426,
+  "tier": "Tier C",
+  "Cpf Cnpj": "53.606.179\/0001-91",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6435,
+  "tier": "Tier S",
+  "Cpf Cnpj": 11345912000979,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6439,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50820492000130,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6441,
+  "tier": "Tier B",
+  "Cpf Cnpj": "40.508.033\/0001-61",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6443,
+  "tier": "Tier C",
+  "Cpf Cnpj": 51709212000183,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6448,
+  "tier": "Tier A",
+  "Cpf Cnpj": 47197935000173,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6450,
+  "tier": "Tier B",
+  "Cpf Cnpj": 46941329000158,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6458,
+  "tier": "Tier B",
+  "Cpf Cnpj": 36811435000163,
+  "proridade": "IMME RJ"
+ },
+ {
+  "id": 6459,
+  "tier": "Tier C",
+  "Cpf Cnpj": 11849280614,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6464,
+  "tier": "Tier C",
+  "Cpf Cnpj": 13196164000188,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6472,
+  "tier": "Tier B",
+  "Cpf Cnpj": "28.505.555\/0001-04",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6481,
+  "tier": "Tier C",
+  "Cpf Cnpj": 7313240643,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6483,
+  "tier": "Tier C",
+  "Cpf Cnpj": 35975109000129,
+  "proridade": "KS TECNOLOGIA"
+ },
+ {
+  "id": 6488,
+  "tier": "Tier C",
+  "Cpf Cnpj": "53.760.194\/0001-90",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6491,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50980957000110,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6499,
+  "tier": "Tier C",
+  "Cpf Cnpj": "49.249.995\/0001-18",
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6508,
+  "tier": "Tier C",
+  "Cpf Cnpj": 8631897760,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6512,
+  "tier": "Tier C",
+  "Cpf Cnpj": 46965926000112,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6515,
+  "tier": "Tier C",
+  "Cpf Cnpj": 1947145860,
+  "proridade": "EYE MATRIZ"
+ },
+ {
+  "id": 6525,
+  "tier": "Tier C",
+  "Cpf Cnpj": 36656986000108,
+  "proridade": "Valori Bank"
+ },
+ {
+  "id": 6526,
+  "tier": "Tier C",
+  "Cpf Cnpj": 50135735000109,
+  "proridade": "EYE MATRIZ"
+ }
+]
+}
