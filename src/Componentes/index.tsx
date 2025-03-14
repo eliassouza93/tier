@@ -15,7 +15,7 @@ function Buscador() {
   const [numero, setNumero] = useState<string>('');
   const [dados, setDados] = useState<Dados | null>(null);
   const [erro, setErro] = useState<string | null>(null);
- 
+  
  
 
   const buscarDados = (numero: string): Dados | any => {
@@ -23,6 +23,7 @@ function Buscador() {
     if (isNaN(numeroInt)) {
       setErro('Digite um número válido.');
       return null;
+      
     }
 
     const resultado = ex.Sheet1.find((item) => item.id === numeroInt);
@@ -34,16 +35,17 @@ function Buscador() {
     return resultado || null;
   };
 
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const pegaValor = (event: React.ChangeEvent<HTMLInputElement>) => {
     const novoNumero = event.target.value;
     setNumero(novoNumero);
     setDados(buscarDados(novoNumero))
+    
   };
 
   return (
     <div className="buscador-container">
       <label htmlFor="numeroInput">Digite o Tenant:</label>
-      <input placeholder='Digite o tenant' type="number" id="numeroInput" value={numero} onChange={handleChange} />
+      <input placeholder='Digite o tenant' type="number" id="numeroInput" value={numero} onChange={pegaValor} />
 
       {erro && <p className="erro">{erro}</p>}
 
