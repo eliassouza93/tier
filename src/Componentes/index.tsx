@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './styles.css'
 import ex from './ex.json'
 
@@ -9,21 +9,25 @@ interface Dados {
   proridade: string;
 }
 
- 
+
 
 function Buscador() {
   const [numero, setNumero] = useState<string>('');
   const [dados, setDados] = useState<Dados | null>(null);
   const [erro, setErro] = useState<string | null>(null);
-  
- 
+
+  useEffect(() => {
+    console.log('%cDesenvolvido por Elias', 'color: green; font-size: 10px;')
+  },[])
+
+
 
   const buscarDados = (numero: string): Dados | any => {
     const numeroInt = parseInt(numero, 10);
     if (isNaN(numeroInt)) {
-      setErro('Digite um número válido.');
+      setErro('Digite um número válido.')
       return null;
-      
+
     }
 
     const resultado = ex.Sheet1.find((item) => item.id === numeroInt);
@@ -39,7 +43,7 @@ function Buscador() {
     const novoNumero = event.target.value;
     setNumero(novoNumero);
     setDados(buscarDados(novoNumero))
-    
+
   };
 
   return (
