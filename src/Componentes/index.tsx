@@ -25,7 +25,7 @@ function Buscador() {
   const buscarDados = (numero: string): Dados | any => {
     const numeroInt = parseInt(numero, 10);
     if (isNaN(numeroInt)) {
-      setErro('Digite um número válido.')
+      setErro('Digite um tenant válido.')
       return null;
 
     }
