@@ -17,7 +17,7 @@ function Buscador() {
   const [erro, setErro] = useState<string | null>(null);
 
   useEffect(() => {
-    console.log('%cDesenvolvido por Elias', 'color: green; font-size: 10px;')
+    console.log('%cDesenvolvido por Elias de souza', 'color: green; font-size: 10px;')
   },[])
 
 
