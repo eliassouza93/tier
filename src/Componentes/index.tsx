@@ -18,7 +18,7 @@ function Buscador() {
 
   useEffect(() => {
     console.log('%cDesenvolvido por Elias de souza', 'color: green; font-size: 10px;')
-  },[])
+  }, [])
 
 
 
@@ -32,7 +32,7 @@ function Buscador() {
 
     const resultado = ex.Sheet1.find((item) => item.id === numeroInt);
     if (!resultado) {
-      setErro('Nenhum resultado encontrado.')
+      setErro('Nenhum resultado encontrado, Tenant novo ou portal cancelado')
     } else {
       setErro(null);
     }
